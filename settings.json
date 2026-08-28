@@ -1,0 +1,10 @@
+{
+  "epg_url": "https://sua-url-original-de-epg.xml",
+  "aviso": {
+    "mostrar": true,
+    "titulo": "BEM-VINDO AO PIXELTV",
+    "mensagem": "Sua lista foi atualizada com sucesso!",
+    "id": 1
+  },
+  "url_vip": "https://seulink.com/vip"
+}
