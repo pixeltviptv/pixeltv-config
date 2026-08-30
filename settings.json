@@ -2,6 +2,6 @@
   "modo_revisao": false,           // Quando 'true', o app "se esconde" para a loja
   "url_servidor": "http://tw57.link",
   "epg_oficial": "http://tw57.link/epg",
-  "aviso_bolha": "Que a chegada da primavera traga renovação, novas energias e muitos momentos floridos para a sua vida. É tempo de deixar o que ficou para trás, florescer novas ideias e colher alegrias em cada dia. Que esta estação seja repleta de cor, sol e boas vibrações!",
+  "aviso_bolha": "Seja bem-vindo ao PixelTV!",
   "mostrar_bolha": true
 }
