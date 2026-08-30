@@ -2,6 +2,6 @@
   "modo_revisao": false,           // Quando 'true', o app "se esconde" para a loja
   "url_servidor": "http://tw57.link",
   "epg_oficial": "http://tw57.link/epg",
-  "aviso_bolha": "teste Seja bem-vindo ao PixelTV!",
+  "aviso_bolha": "Seja bem-vindo ao PixelTV!",
   "mostrar_bolha": true
 }
