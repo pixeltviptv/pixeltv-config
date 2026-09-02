@@ -1,7 +1,24 @@
 {
-  "modo_revisao": true,           // Quando 'true', o app "se esconde" para a loja
-  "url_servidor": "http://tw57.link",
-  "epg_oficial": "http://tw57.link/epg",
-  "aviso_bolha": "Seja bem-vindo ao Pixel!",
-  "mostrar_bolha": true
+  "app_config": {
+    "modo_revisao": true,
+    "player_desbloqueado": false
+  },
+  "lista_servidores": [
+    {
+      "nome": "Servidor Oficial",
+      "url": "http://tw57.link",
+      "epg": "http://tw57.link/epg"
+    },
+    {
+      "nome": "Servidor Reserva",
+      "url": "http://seu-segundo-dns.com",
+      "epg": "http://seu-segundo-dns.com/epg"
+    }
+  ],
+  "avisos": {
+    "mostrar": true,
+    "titulo": "Bem-vindo ao Pixel TV",
+    "mensagem": "Sua mensagem de boas-vindas aqui!",
+    "id": 1
+  }
 }
