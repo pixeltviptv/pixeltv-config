@@ -1,7 +1,15 @@
 {
   "app_config": {
     "modo_revisao": true,
-    "player_desbloqueado": false
+    "player_desbloqueado": false,
+    "servidor_padrao": "http://tw57.link",
+    "epg_padrao": "http://tw57.link/epg"
+  },
+  "atualizacao": {
+    "versao_codigo": 3,
+    "versao_nome": "1.2",
+    "url_apk": "https://link-direto-para-seu-arquivo.apk",
+    "notas": "• Sistema de atualização automática\n• Melhorias de performance\n• Ajustes no Modo Revisão"
   },
   "lista_servidores": [
     {
@@ -17,7 +25,7 @@
   ],
   "avisos": {
     "mostrar": true,
-    "titulo": "Bem-vindo ao Pixel!",
+    "titulo": "Bem-vindo ao Pixel TV",
     "mensagem": "Qualidade de imagem: Transmissão em alta resolução para uma experiência imersiva de cinema em casa.",
     "id": 1
   }
