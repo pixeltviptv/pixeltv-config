@@ -8,7 +8,7 @@
   "atualizacao": {
     "versao_codigo": 3,
     "versao_nome": "1.2",
-    "url_apk": "https://github.com/pixeltviptv/Pixeltv-apk/releases/download/apk1.2/1.2.apk",
+    "url_apk": "https://github.com/pixeltviptv/pixeltv-config/releases/download/Pixeltv_apk/app-debug.apk",
     "notas": "• Sistema de atualização automática\n• Melhorias de performance\n• Ajustes no Modo Revisão"
   },
   "lista_servidores": [
