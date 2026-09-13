@@ -6,8 +6,8 @@
     "epg_padrao": "http://tw57.link/epg"
   },
   "atualizacao": {
-    "versao_codigo": 3,
-    "versao_nome": "1.2",
+    "versao_codigo": 4,
+    "versao_nome": "1.3",
     "url_apk": "https://github.com/pixeltviptv/pixeltv-config/releases/download/Pixeltv_apk/Pixeltv.apk",
     "notas": "• Sistema de atualização automática\n• Melhorias de performance\n• Ajustes no Modo Revisão"
   },
