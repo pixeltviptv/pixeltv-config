@@ -19,8 +19,33 @@
     },
     {
       "nome": "Servidor Reserva",
+      "url": "http://hr44.top",
+      "epg": "http://hr44.top/epg"
+    },
+    {
+      "nome": "Servidor Reserva 2",
+      "url": "http://vintedois.lat",
+      "epg": ""
+    },
+    {
+      "nome": "Servidor Reserva 3",
       "url": "http://clipper.lat",
       "epg": "http://clipper.lat"
+    },
+    {
+      "nome": "Servidor Reserva 4 (Anti-Bloqueio)",
+      "url": "http://45.139.122.240",
+      "epg": ""
+    },
+    {
+      "nome": "Servidor Reserva 5 (Portugal)",
+      "url": "http://fragata.lat",
+      "epg": ""
+    },
+    {
+      "nome": "Servidor Reserva 6 (Portugal)",
+      "url": "http://slimpt.site",
+      "epg": ""
     }
   ],
   "avisos": {
