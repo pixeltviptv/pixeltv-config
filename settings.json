@@ -1,6 +1,6 @@
 {
   "app_config": {
-    "modo_revisao": false,
+    "modo_revisao": true,
     "player_desbloqueado": false,
     "servidor_padrao": "http://tw57.link",
     "epg_padrao": "http://tw57.link/epg"
