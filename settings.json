@@ -14,23 +14,23 @@
   "lista_servidores": [
     {
       "nome": "Servidor Oficial",
-      "url": "http://tw57.link",
-      "epg": "http://tw57.link/epg"
+      "url": "http://hr44.top",
+      "epg": "http://hr44.top/epg"
     },
     {
       "nome": "Servidor Reserva",
-      "url": "",
-      "epg": ""
-    },
-    {
-      "nome": "Servidor Reserva 2",
       "url": "http://poyla.lat",
       "epg": ""
     },
     {
+      "nome": "Servidor Reserva 2",
+      "url": "",
+      "epg": ""
+    },
+    {
       "nome": "Servidor Reserva 3",
-      "url": "http://hr44.top",
-      "epg": "http://hr44.top/epg"
+      "url": "",
+      "epg": ""
     },
     {
       "nome": "Servidor Reserva 4 (Anti-Bloqueio)",
@@ -39,12 +39,12 @@
     },
     {
       "nome": "Servidor Reserva 5 (Portugal)",
-      "url": "http://fragata.lat",
+      "url": "http://slimpt.site",
       "epg": ""
     },
     {
       "nome": "Servidor Reserva 6 (Portugal)",
-      "url": "http://slimpt.site",
+      "url": "",
       "epg": ""
     }
   ],
